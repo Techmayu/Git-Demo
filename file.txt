@@ -1,2 +1,8 @@
 "Hello from Master Branch"
+<<<<<<< HEAD
 "This line is added in main branch."
+=======
+"This line is added in feature branch" 
+>>>>>>> feature
+“This line includes changes from both the
+branches."
